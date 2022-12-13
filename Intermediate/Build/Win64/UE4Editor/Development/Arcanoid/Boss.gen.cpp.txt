@@ -1,0 +1,9 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid/Boss.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss_NPC.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss_NPC.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Nave.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss.generated.h

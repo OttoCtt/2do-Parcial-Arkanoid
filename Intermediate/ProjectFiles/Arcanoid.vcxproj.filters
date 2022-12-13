@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arcanoid.uproject" />
+    <Filter Include="Source">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <UniqueIdentifier>{67AC6655-CD90-4708-AC5C-93D244A46BC9}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{10EBA886-F09D-4B3F-AE3D-ABDE31F7566E}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+=======
+      <UniqueIdentifier>{10EBA886-F09D-4B3F-AE3D-ABDE31F7566E}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+    </Filter>
+    <None Include="..\..\Source\Arcanoid.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArcanoidEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <UniqueIdentifier>{E2ED5C17-1C2F-40A9-9A30-B132F507E237}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{16F7A4F6-D386-4001-8650-B9A224447DCA}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+=======
+      <UniqueIdentifier>{16F7A4F6-D386-4001-8650-B9A224447DCA}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arcanoid">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <UniqueIdentifier>{CFA5249A-A6C9-42C3-9B58-7AE9D18EADA1}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{7AF1D503-9971-4697-8390-EC790CFDC4E6}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+=======
+      <UniqueIdentifier>{7AF1D503-9971-4697-8390-EC790CFDC4E6}</UniqueIdentifier>
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+    </Filter>
+    <None Include="..\..\Source\Arcanoid\Arcanoid.Build.cs">
+      <Filter>Source\Arcanoid</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arcanoid\Arcanoid.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Arcanoid.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\ArcanoidGameModeBase.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\ArcanoidGameModeBase.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Ball.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Ball.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Boss.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Boss.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Boss01.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Boss01.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\BossBilder.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\BossBilder.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Boss_NPC.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Boss_NPC.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Brick.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Brick.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <ClCompile Include="..\..\Source\Arcanoid\DirectorNivelBossBilder.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\DirectorNivelBossBilder.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Nave.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Nave.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Nivel_01BossBilder.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Nivel_01BossBilder.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Nivel_01_BossBilder.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Nivel_01_BossBilder.h">
+=======
+=======
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+    <ClCompile Include="..\..\Source\Arcanoid\Capsula.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Capsula.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaArma.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaArma.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaArma1.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaArma1.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaDano.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaDano.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaDano1.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaDano1.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaDano2.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaDano2.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaPoder.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaPoder.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaPoder1.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaPoder1.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\CapsulaPoder2.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\CapsulaPoder2.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\FactoryMethod_Main.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\FactoryMethod_Main.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\GeneradorCapsulas.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\GeneradorCapsulas.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\InnerGeneradorCapsulas.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\InnerGeneradorCapsulas.h">
+<<<<<<< HEAD
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+=======
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Paddle.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Paddle.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\PaddlePlayerController.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\PaddlePlayerController.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Singleton_Main.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Singleton_Main.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

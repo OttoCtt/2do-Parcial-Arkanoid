@@ -1,0 +1,25 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\ArcanoidGameModeBase.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\ArcanoidGameModeBase.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Brick.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Brick.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss_NPC.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss_NPC.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Nave.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss01.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss01.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\DirectorNivelBossBilder.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\BossBilder.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\BossBilder.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\DirectorNivelBossBilder.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Nivel_01_BossBilder.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Nivel_01_BossBilder.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Nivel_01BossBilder.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Nivel_01BossBilder.generated.h

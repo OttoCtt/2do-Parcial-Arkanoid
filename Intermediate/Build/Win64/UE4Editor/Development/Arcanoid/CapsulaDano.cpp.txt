@@ -1,0 +1,5 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\CapsulaDano.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\Capsula.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Capsula.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\CapsulaDano.generated.h

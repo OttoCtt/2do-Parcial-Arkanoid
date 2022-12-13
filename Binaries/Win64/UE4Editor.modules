@@ -1,0 +1,15 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+<<<<<<< HEAD
+<<<<<<< HEAD
+		"Arcanoid": "UE4Editor-Arcanoid-0040.dll"
+=======
+		"Arcanoid": "UE4Editor-Arcanoid-0012.dll"
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+=======
+		"Arcanoid": "UE4Editor-Arcanoid-0012.dll"
+>>>>>>> 1bdf070144160bf23fc044ff5b9190e0698a31b8
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Arcanoid",
+			"Path": "D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\Arcanoidel\\Source\\Arcanoid.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArcanoidEditor",
+			"Path": "D:\\Usuarios\\Datos_Otto_Ch\\Documents\\Unreal Projects\\Arcanoidel\\Source\\ArcanoidEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

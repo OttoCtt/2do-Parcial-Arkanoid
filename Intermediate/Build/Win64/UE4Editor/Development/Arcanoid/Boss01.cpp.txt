@@ -1,0 +1,7 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss01.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Boss_NPC.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss_NPC.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Nave.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Boss01.generated.h

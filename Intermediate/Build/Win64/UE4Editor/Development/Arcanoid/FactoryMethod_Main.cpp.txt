@@ -1,0 +1,9 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\FactoryMethod_Main.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\FactoryMethod_Main.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\InnerGeneradorCapsulas.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\GeneradorCapsulas.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Source\Arcanoid\Capsula.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Capsula.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\GeneradorCapsulas.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoide\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\InnerGeneradorCapsulas.generated.h
